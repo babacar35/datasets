@@ -1,0 +1,7 @@
+link: https://www.kaggle.com/datasets/prudhvignv/road-damage-classification-and-assessment/data
+
+Road damage classification
+This dataset contains images of roads with damages.
+We classify the damages of roads into 4 categories such as good, poor, satisfactory, very poor according to their extent of damage.
+You can use labels to the images by the name given by the directories or by the prefix of name of the image.
+You can use these images to classify the roads and also can be used for further assesment.
